@@ -3,4 +3,4 @@ K-Lab 提供了文件编辑器的功能，用户可以在右侧文件树内右�
 
 ![进入件编辑器](/image/edit-file.png)
 
-文件编辑器暂时支持 '.py', '.jl', '.md', '.markdown', '.r', '.txt', '.json', '.go', '.c', '.cpp' 这些文件格式的编辑
+文件编辑器暂时支持 `.py`, `.jl`, `.md`, `.markdown`, `.r`, `.txt`, `.json`, `.go`, `.c`, `.cpp` 这些文件格式的编辑
